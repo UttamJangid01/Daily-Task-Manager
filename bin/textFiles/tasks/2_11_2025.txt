@@ -1,0 +1,8 @@
+a|false
+d|false
+d|true
+ad|false
+da|false
+d|false
+dd|false
+adf|false

@@ -1,0 +1,2 @@
+Learn German|true
+Work on Sudoku project|true

@@ -1,0 +1,4 @@
+German|false
+Spring Boot|false
+JavaFX|false
+Work on Sudoku|false

@@ -1,0 +1,4 @@
+Learn German|true
+Watch minimum One to two Spring boot leacher|true
+Learn One DSA Pattern|true
+Learn Compiler Designe|true

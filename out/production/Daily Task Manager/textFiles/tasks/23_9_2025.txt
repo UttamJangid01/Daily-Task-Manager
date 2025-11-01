@@ -1,0 +1,5 @@
+Spring Boot|true
+SQL|false
+German|false
+JavaFX|false
+One question on CodeForces|false

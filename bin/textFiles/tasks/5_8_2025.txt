@@ -1,0 +1,5 @@
+Learn German|true
+Learn SQL|true
+Learn Spring Boot|false
+Learn JavaFX|false
+Sliding window minimum 4 to 5 questions|false

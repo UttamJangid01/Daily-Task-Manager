@@ -1,0 +1,5 @@
+Learn German|true
+Learn SQL|true
+Learn JavaFx|true
+Learn Spring boot|true
+Work on Sudoku project|true

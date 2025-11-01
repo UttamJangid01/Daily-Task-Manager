@@ -1,0 +1,4 @@
+Revision Spring Boot|true
+Revision SQL|false
+Work on Project|true
+German|true

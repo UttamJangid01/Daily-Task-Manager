@@ -1,0 +1,4 @@
+Spring Boot|false
+SQL|false
+JavaFX|false
+German|false

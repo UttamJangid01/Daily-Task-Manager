@@ -1,0 +1,6 @@
+Learn German|true
+Learn SQL|true
+Sliding window questions|true
+One new Consept of Compiler design|true
+Learn JavaFX|true
+Learn Spring Boot|true

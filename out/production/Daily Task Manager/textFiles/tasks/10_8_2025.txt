@@ -1,0 +1,5 @@
+Learn German|true
+Learn SQL|false
+Learn Spring Boot|false
+Solve minimum 2 problems|false
+Work on Suduku project|true

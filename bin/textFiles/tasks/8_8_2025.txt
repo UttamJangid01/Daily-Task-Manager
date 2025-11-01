@@ -1,0 +1,6 @@
+Learn SQL|true
+Learn German|true
+Learn Spring Boot|false
+Solve minimum 4 problems|false
+five MonkeyType Test (One minute)|true
+Start new Java project Sudoku|true

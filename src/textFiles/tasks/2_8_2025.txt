@@ -1,0 +1,6 @@
+Learn German|true
+Learn Sql|true
+Solve Window Pattern problems|true
+watch minimum two videos of Spring boot|true
+One Concept of compiler designe|true
+Start Leaarning JavaFx (only one topic)|true

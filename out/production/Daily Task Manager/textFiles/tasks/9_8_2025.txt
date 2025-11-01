@@ -1,0 +1,4 @@
+Learn German|true
+Learn SQL|true
+Learn Spring Boot|true
+Work on Sudoku project|false
