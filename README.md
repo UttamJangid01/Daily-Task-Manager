@@ -81,6 +81,11 @@ This project records and tracks users’ daily progress. It visualizes the data 
 
 ---
 
+🎥 **Watch the full video here:**  
+https://www.linkedin.com/posts/uttam-jangid-a3093a277_for-more-details-github-httpslnkdin-activity-7390268175948488704-BLaG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOXmEQBQe-4mvioNevqAH3ZEWW2xcgUWfA
+
+---
+
 ## 🧠 Future Improvements
 
 * Add database support (MySQL or SQLite)
